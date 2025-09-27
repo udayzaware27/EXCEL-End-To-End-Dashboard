@@ -1,4 +1,4 @@
-[[# 📊 Excel Sales Dashboard Project
+# 📊 Excel Sales Dashboard Project
 
 This project demonstrates how raw sales data can be transformed into meaningful insights using **Microsoft Excel**, **Power Query**, **Pivot Tables**, **Charts**, and **Slicers**.  
 It includes both the **source dataset** and the **final interactive dashboard**.
@@ -32,23 +32,24 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 
 ## 📊 Dashboard Insights & KPIs
 
-### Key Performance Indicators (KPIs)
-- **Total Sales** – Overall revenue generated  
-- **Average Sales** – Average revenue per transaction  
-- **Total Transactions** – Count of all transactions  
-- **Total Quantity** – Total units sold  
+### KPIs
+- 💰 Total Sales – Overall revenue generated
+- 📦 Total Quantity – Total units sold
+- 📊 Ship Mode Sales % Wise – Pie Chart
+- 🌍 Region Slicer – Filter dashboard by region
 
-### Visualizations
-- **Ship Mode Sales % Wise** – Pie Chart  
-- **Zone Wise Sales %** – Donut Chart  
-- **Month Wise Quantity Sold** – Line Chart  
-- **Top 5 Cities Sales Wise** – Column Chart  
-- **Category Wise Transactions Count** – Bar Chart  
-- **Consumer Type Wise Quantity Ordered** – Bar Chart  
+### Charts / Visualizations
+- Ship Mode Sales % Wise – Pie Chart
+- Zone Wise Sales % – Donut Chart
+- Month Wise Quantity Sold – Line Chart
+- Top 5 Cities Sales Wise – Column Chart
+- Category Wise Transactions Count – Bar Chart
+- Consumer Type Wise Quantity Ordered – Bar Chart
 
 ### Interactive Slicers
-- **Region Slicer** – Filter dashboard by region  
-- **Year Slicer** – Filter dashboard by year  
+- Region Slicer – Filter dashboard by region
+- Year Slicer – Filter dashboard by year
+ 
 
 ---
 
@@ -63,7 +64,7 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/udayzaware27/EXCEL-End-To-End-Dashboard/blob/main/Dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/udayzaware27/EXCEL-End-To-End-Dashboard/main/Dashboard.png)
 
 
 ---
@@ -77,4 +78,4 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 ---
 
 ## 🔗 Access  
-- 🔗 [Download and View Interactive Excel File](https://github.com/udayzaware27/EXCEL-End-To-End-Dashboard/blob/main/Sales_Dashboard.xlsx)
+- 🔗 [Download and View Interactive Excel File]([(https://docs.google.com/spreadsheets/d/1erHJsxJffZ_M1PqC_fDlcJifAuTxhBIZ/edit?usp=sharing))
