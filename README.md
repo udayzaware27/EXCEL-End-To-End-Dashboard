@@ -62,9 +62,8 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 ---
 
 ## 📷 Dashboard Preview
-
-![Dashboard Screenshot](<img width="1551" height="632" alt="Dashboard" src="https://github.com/user-attachments/assets/34285b56-8f81-42d7-b83f-abf790534b33" />
-)
+## 📷 Dashboard Preview
+![Dashboard Screenshot](https://github.com/udayzaware27/EXCEL-End-To-End-Dashboard/blob/main/Dashboard.png)
 
 
 ---
