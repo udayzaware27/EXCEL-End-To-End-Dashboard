@@ -32,24 +32,23 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 
 ## 📊 Dashboard Insights & KPIs
 
-### KPIs
-- 💰 Total Sales – Overall revenue generated
-- 📦 Total Quantity – Total units sold
-- 📊 Ship Mode Sales % Wise – Pie Chart
-- 🌍 Region Slicer – Filter dashboard by region
+### Key Performance Indicators (KPIs)
+- 💰 **Total Sales** – Overall revenue generated  
+- 📦 **Total Quantity** – Total units sold  
+- 🧾 **Total Transactions** – Count of all transactions  
+- 📈 **Average Sales** – Average revenue per transaction  
 
 ### Charts / Visualizations
-- Ship Mode Sales % Wise – Pie Chart
-- Zone Wise Sales % – Donut Chart
-- Month Wise Quantity Sold – Line Chart
-- Top 5 Cities Sales Wise – Column Chart
-- Category Wise Transactions Count – Bar Chart
-- Consumer Type Wise Quantity Ordered – Bar Chart
+- Ship Mode Sales % Wise – Pie Chart  
+- Zone Wise Sales % – Donut Chart  
+- Month Wise Quantity Sold – Line Chart  
+- Top 5 Cities Sales Wise – Column Chart  
+- Category Wise Transactions Count – Bar Chart  
+- Consumer Type Wise Quantity Ordered – Bar Chart  
 
 ### Interactive Slicers
-- Region Slicer – Filter dashboard by region
-- Year Slicer – Filter dashboard by year
- 
+- Region Slicer – Filter dashboard by region  
+- Year Slicer – Filter dashboard by year  
 
 ---
 
@@ -66,7 +65,6 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/udayzaware27/EXCEL-End-To-End-Dashboard/main/Dashboard.png)
 
-
 ---
 
 ## 🎯 Learning Outcomes
@@ -76,8 +74,11 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 - Improved ability to present **data-driven insights** in a professional format  
 
 ---
+
 ## 🔗 Access
+- 🔗 [Open Interactive Excel Dashboard on OneDrive](https://1drv.ms/x/c/3438708f9682fa3a/EQPwg25MpjNPsMdurvtHjKsBKxZu9VUDtBQGviWcSGReLg)  
 
-- 🔗 [Open Interactive Dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1erHJsxJffZ_M1PqC_fDlcJifAuTxhBIZ/edit?usp=sharing)
-
-
+**How to use:**  
+1. Open the file in OneDrive  
+2. Click **Enable Editing** (if prompted)  
+3. Use **Region** and **Year** slicers to interact with the dashboard  
