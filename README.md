@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard Project
+[[# 📊 Excel Sales Dashboard Project
 
 This project demonstrates how raw sales data can be transformed into meaningful insights using **Microsoft Excel**, **Power Query**, **Pivot Tables**, **Charts**, and **Slicers**.  
 It includes both the **source dataset** and the **final interactive dashboard**.
