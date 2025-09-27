@@ -32,8 +32,6 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 
 ## 📊 Dashboard Insights & KPIs
 
-**Source:** Skill Course
-
 ### Key Performance Indicators (KPIs)
 - **Total Sales** – Overall revenue generated  
 - **Average Sales** – Average revenue per transaction  
@@ -64,7 +62,7 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](https://github.com/udayzaware27/EXCEL-End-To-End-Dashboard/blob/main/Dashboard.png)
+
 ![Dashboard Screenshot](<img width="1551" height="632" alt="Dashboard" src="https://github.com/user-attachments/assets/34285b56-8f81-42d7-b83f-abf790534b33" />
 )
 
