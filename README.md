@@ -76,6 +76,8 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 - Improved ability to present **data-driven insights** in a professional format  
 
 ---
+## 🔗 Access
 
-## 🔗 Access  
-- 🔗 [Download and View Interactive Excel File]([(https://docs.google.com/spreadsheets/d/1erHJsxJffZ_M1PqC_fDlcJifAuTxhBIZ/edit?usp=sharing))
+- 🔗 [Open Interactive Dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1erHJsxJffZ_M1PqC_fDlcJifAuTxhBIZ/edit?usp=sharing)
+
+
