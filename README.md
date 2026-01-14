@@ -82,3 +82,12 @@ It includes both the **source dataset** and the **final interactive dashboard**.
 1. Open the file in OneDrive  
 2. Click **Enable Editing** (if prompted)  
 3. Use **Region** and **Year** slicers to interact with the dashboard  
+
+---
+
+## 👤 Author
+**Udaykumar N Zaware**  
+- GitHub: [udayzaware27 ](https://github.com/udayzaware27)
+- Linkedin: www.linkedin.com/in/udaykumar-zaware27
+
+---
